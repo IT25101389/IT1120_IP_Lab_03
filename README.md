@@ -1,4 +1,4 @@
-# IT1120 -- Introduction to Programming             IT1120 – Introduction to Programming
+# IT1120 - Introduction to Programming            Lab Sheet 03
 
 
   <p align="center">
