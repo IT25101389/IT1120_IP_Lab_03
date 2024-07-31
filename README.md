@@ -1,6 +1,5 @@
-# IT1120 -- Introduction to Programming
+# IT1120 -- Introduction to Programming             IT1120 – Introduction to Programming
 
-## **Lab 3**
 
   <p align="center">
     <img src="resources/media/m1.PNG" alt="Image description" style="width:100%; height:100%;">
