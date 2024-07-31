@@ -3,7 +3,9 @@
   </p>
   
 <p align="center">
-### IT1120 - Introduction to Programming           Lab Sheet 03
+  
+## IT1120 - Introduction to Programming           Lab Sheet 03
+
 </p>
 
   <p align="center">
