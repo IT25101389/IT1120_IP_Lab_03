@@ -3,10 +3,8 @@
   </p>
 
 
-<div style="text-align: center;">
-  <h2>IT1120 - Introduction to Programming</h2>
-  <h2>Lab 03</h2>
-</div>
+<h2 style="text-align: center;">IT1120 - Introduction to Programming</h2>
+<h2 style="text-align: center;">Lab 03</h2>
 
 
   <p align="center">
