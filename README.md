@@ -9,6 +9,10 @@
   <img src="https://via.placeholder.com/50x50/ffffff/000000?text=Lab+03&size=70" alt="Lab 03">
 </p>
 
+```
+```
+
+
   <p align="center">
     <img src="resources/media/m2.PNG" alt="Image description" style="width:100%; height:100%;">
   </p>
