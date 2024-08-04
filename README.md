@@ -3,8 +3,8 @@
   </p>
 
 <p align="center">
-IT1120 - Introduction to Programming
-Lab 3 - User Input Handling
+##IT1120 - Introduction to Programming
+##Lab 3 - User Input Handling
 </p>
 
 
