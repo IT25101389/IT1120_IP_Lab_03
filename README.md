@@ -2,11 +2,6 @@
     <img src="resources/media/m1.PNG" alt="Image description" style="width:100%; height:100%;">
   </p>
 
-<p align="center">
-IT1120 - Introduction to Programming
-Lab 3 - User Input Handling
-</p>
-
 
 ### Question 1A (Tutorial 2 -- Q2)
 
