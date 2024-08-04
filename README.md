@@ -2,8 +2,9 @@
     <img src="resources/media/m1.PNG" alt="Image description" style="width:100%; height:100%;">
   </p>
 
-
+<p align="center">
 **Lab 3 - User Input Handling**
+</p>
 
 <p align="center">
   <img src="https://via.placeholder.com/350x50/ffffff/000000?text=IT1120+-+Introduction+to+Programming&size=70" alt="IT1120 - Introduction to Programming">
