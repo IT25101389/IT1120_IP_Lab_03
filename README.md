@@ -21,7 +21,7 @@ Replace 'ITxx xxx xxx' of the filename, with your own Student ID.
 Expected Output:
 
   <p align="center">
-    <img src="resources/media/image1.png" alt="Image description" style="width:100%; height:100%;">
+    <img src="resources/media/image1.png" alt="Image description" style="width:50%; height:50%;">
   </p>
 
 ### Question 1B (Tutorial 2 -- Q2)
@@ -38,7 +38,7 @@ Replace 'ITxx xxx xxx' of the filename, with your own Student ID.
 Expected Output:
 
   <p align="center">
-    <img src="resources/media/image2.png" alt="Image description" style="width:100%; height:100%;">
+    <img src="resources/media/image2.png" alt="Image description" style="width:50%; height:50%;">
   </p>
 
 ### Question 2 (Tutorial 2 -- Q3)
@@ -60,7 +60,7 @@ Replace 'ITxx xxx xxx' of the filename, with your own Student ID.
 Expected Output:
 
   <p align="center">
-    <img src="resources/media/image3.png" alt="Image description" style="width:100%; height:100%;">
+    <img src="resources/media/image3.png" alt="Image description" style="width:50%; height:50%;">
   </p>
 
 ### Question 3 (Tutorial 2 -- Q4)
@@ -102,7 +102,7 @@ Replace 'ITxx xxx xxx' of the filename, with your own Student ID.
 Expected Output:
 
   <p align="center">
-    <img src="resources/media/image4.png" alt="Image description" style="width:100%; height:100%;">
+    <img src="resources/media/image4.png" alt="Image description" style="width:50%; height:50%;">
   </p>
 
   
@@ -123,7 +123,7 @@ Replace 'ITxx xxx xxx' of the filename, with your own Student ID.
 Expected Output:
 
   <p align="center">
-    <img src="resources/media/image5.png" alt="Image description" style="width:100%; height:100%;">
+    <img src="resources/media/image5.png" alt="Image description" style="width:50%; height:50%;">
   </p>
 
 
